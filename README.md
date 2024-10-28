@@ -3,7 +3,7 @@
 ## About Me
 
   - Pronouns: she/they
-  - Fun fact: I have a cat named Coraline
+  - Fun fact: I have a cat named Coraline.
 
   **I’m interested in:**
   - Linguistics
@@ -20,5 +20,5 @@
 ## Let's collaborate!
 
   **I’m looking to collaborate by helping with open source documentation**
-  - Feel free to leave me a comment
+  - Feel free to leave me a comment.
   - Visit my website: [autumnlemieux.com](https://autumnlemieux.com)

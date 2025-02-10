@@ -8,14 +8,13 @@
   **I’m interested in:**
   - Linguistics
   - Writing
-  - Pastries
   - Design
+  - Bookbinding
 
   **I’m currently learning:**
   - Python
   - Japanese
-  - Czech
-  - Embroidery
+  - German
 
 ## Let's collaborate!
 
